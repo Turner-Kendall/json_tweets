@@ -10,4 +10,4 @@ I tried to think of the smallest useful JSON file that I could create from these
   },
 ```
 
-The src directory contains the Rust file I created to process the original ( large ) JSON files.
+The src directory contains the Rust file I created to process the original ( large ) JSON files.  
